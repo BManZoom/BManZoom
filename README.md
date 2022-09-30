@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Olumefun Boluwatife aka BManZoom
-- 👀 I’m interested in programming and coding.
+- 👋 Hi, I’m Boluwatife Olumefun aka BManZoom
+- 👀 I’m interested in programming and coding, currently on web development.
 - 🌱 I’m currently learning as a full stack programmer. Still upcoming in the process though.
 - 💞️ I’m looking to collaborate with my fellow programmers and superiors in projects and Learning.
 - 📫 You can reach me via my email: olumefunbol@gmail.com.
